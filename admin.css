@@ -1,0 +1,30 @@
+body{
+}
+div.jeden{
+width:20%;
+height: 100%;
+float:left;
+border:1px;
+}
+div.jedenjeden{
+border:1px;
+width:20%;
+height: 100%;
+		float:left;
+}
+div.jedenjedenjeden{
+
+width:20%;
+height: 100%;
+	float:right;
+}
+div.jedenjedenjedenjeden{
+
+width:20%;
+height: 100%;
+	float:right;
+}
+div.koniec{
+		height: 102%;
+	width:102%;
+}

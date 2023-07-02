@@ -1,0 +1,73 @@
+h3{
+color: #F5ACCB;
+	
+}
+
+div.php{
+color: #F5ACCB	;
+}
+p{
+	color: #35ff26;
+}
+
+h2{
+	text-align:center;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+input{
+	text-align:center;
+    background: conic-gradient(
+        #fd004c,
+        #fe9000,
+        #fff020,
+        #3edf4b,
+        #3363ff,
+        #b102b7,
+        #fd004c
+    );
+    display: flex;
+text-align: center;
+padding:5px 99px;
+border-radius: 10px;
+}
+div.wysylanie{
+	width:371px;
+	background: #2986ce;
+	margin-top:-000px;
+	margin-left:40%;
+	margin-right: 40%;
+border-radius: 10px;
+text-align:center;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #2986ce;
+  padding:10px;
+}
+#margin{
+	margin-top:150px;
+	
+}
+
+input.easybutton{
+padding:5px 10px;
+border-radius: 10px;
+color: #fff;
+border:1px solid #333;
+background: #2986ce;
+background: -moz-linear-gradient(top, #2986ce 0%, #7db9e8 100%);
+background: -webkit-linear-gradient(top, #2986ce 0%,#7db9e8 100%);
+background: linear-gradient(to bottom, #2986ce 0%,#7db9e8 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2986ce', endColorstr='#7db9e8',GradientType=0 );
+}
+input.easybutton:hover{
+background: #7db9e8;
+background: -moz-linear-gradient(top, #7db9e8 0%, #2986ce 100%);
+background: -webkit-linear-gradient(top, #7db9e8 0%,#2986ce 100%);
+background: linear-gradient(to bottom, #7db9e8 0%,#2986ce 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', endColorstr='#2986ce',GradientType=0 );
+text-decoration:none;
+}
+body{
+    background-color: #151320;
+}
